@@ -1,3 +1,10 @@
+"""
+Day 01 – Rule-Based Decision System
+
+This program demonstrates how early AI systems
+made decisions using explicit rules instead of learning.
+"""
+
 # Day 01: Rule-based decision system
 # This simulates how a machine makes decisions using logic
 
