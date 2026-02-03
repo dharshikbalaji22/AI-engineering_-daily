@@ -1,0 +1,26 @@
+# Day 02 – AQI Scoring-Based AI System
+
+## Motivation
+Air pollution is a major public health issue in many Indian cities.
+This project explores how AI systems can quantify environmental
+risk using a continuous scoring approach.
+
+## Problem
+Given an AQI (Air Quality Index) value, determine the level
+of health risk instead of assigning rigid categories.
+
+## Approach
+Instead of fixed AQI buckets, the system converts AQI into
+a normalized risk score between 0 and 1.
+
+## AI Insight
+Scoring-based systems represent an evolution from early
+rule-based expert systems toward machine learning models.
+
+## Why This Matters
+Continuous scoring allows smoother decisions and better
+risk interpretation, which is essential in real-world AI systems.
+
+## Tools
+- Python
+- Numerical reasoning
